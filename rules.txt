@@ -1,0 +1,49 @@
+You are a Lord seeking new lands to expand your Kingdom. You must explore all the lands, wheat fields, lakes, mountains in order to
+spot the best plots. But be careful, as some other Lords are also coveting theses lands...
+
+OBJECT OF THE GAME:
+Connect your dominoes in order to build your kingdom in a 5x5 grid in a way to score the most prestige points.
+
+SETUP:
+Each player takes a starting tile (a square) and the castle of their color. They place the tile, face up, in front of them and
+then they place the castle on it.All the dominoes are thoroughly shuffled, numbered side up, and then they are randomly  placed
+in the box insert to form the draw pile of the game. Then, from the draw pile, take four dominoes and display  them next to the box,
+numbered side up. These dominoes must be displayed in the ascending order (the lowest number next is always placed next to the box).
+Finally, turn them on the landscape side. The starting order will be randomly selected. When all the dominoes have been chosen, 
+form a new line, as you previously did, by drawing new tiles.
+
+PLAYING THE GAME:
+The playing order is determined by the positions of the kings on the dominoes line.The player, whose king, is placed on the 1st domino
+of the line starts. He must take the following actions:
+	
+	1: Add the chosen domino to their territory according the connection rules.
+	2: Choose a new domino in the new line by placing their king on it. Then, it is the turn of the player whose king is on the second
+	domino to take their two actions, and so on, until the last player has taken their two actions. 
+
+Each player will take the 1 and 2 actions twice, once for each of their kings. Then, form a new dominoes line and a new turn can start.
+
+CONNECTION RULES:
+The players must build a kingdom in a 5x5 grid (each domino is composed of two squares). In order to place down their domino, the player
+must either connect it to their starting tile (the starting domino can be considered as a wild domino, any landscape can be connected to
+this domino), or connect it to another domino matching at least 1 of its landscape (horizontally or vertically only).
+
+If you can’t add a domino to your kingdom following these rules, the domino must be discarded and you will not get points for it.
+All your dominoes must fit in 5x5 grid. If, due to bad planning, one or more of your dominoes could not fit, they are discarded. You will
+not get points for them.
+
+END OF THE GAME
+When the last dominoes are lined up, the players will take a last turn but they will only take the 1 action. Each player should have in front
+of them a 5x5 grid forming their kingdom. (Some kingdoms may not be complete if a player was forced to discard any dominoes – see above).
+Then, each player will calculate their prestige points for their kingdoms in the following way:
+
+	- A kingdom is composed of different PROPERTIES (groups of connected, either horizontally or vertically, squares of the same type of landscape).
+	- Each property will give you as much prestige points as the NUMBER OF SQUARES multiplied with the NUMBER OF SPECIFIC CROWNS appearing on the property.
+	- You can have multiple properties with the same type of landscape in the same kingdom.
+	- A property without a specific crowns will give you no points.
+	- Each player will add the points given by all their properties, the result is their final score.
+	- In case of a tie, the player with the most extended property wins the game
+	- If it is still a tie, the player who has the most crowns wins the game. If it is still a tie the players share the victory.
+	
+You are now ready to play!
+
+
